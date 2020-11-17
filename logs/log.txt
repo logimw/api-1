@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 2020-11-18
+Exception info: {"status":500,"statusText":"Internal Server Error","message":"ENOENT: no such file or directory, open 'C:\\Users\\Mateo\\WebstormProjects\\BethanysPiesAPI\\assets\\pi3ss.jsok'","error":{"errno":-4058,"call":"open","code":"INTERNAL_SERVER_ERROR","message":"ENOENT: no such file or directory, open 'C:\\Users\\Mateo\\WebstormProjects\\BethanysPiesAPI\\assets\\pi3ss.jsok'"},"requestInfo":{"hostname":"localhost"}}
+********************************************************************************

@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c50afb5e-569f-4cd3-89f0-397159cbd22f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/repos/logRepo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/errorHelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/errorHelpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repos/pieRepo.js" beforeDir="false" afterPath="$PROJECT_DIR$/repos/pieRepo.js" afterDir="false" />
     </list>
@@ -36,7 +56,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Mateo\WebstormProjects\BethanysPiesAPI\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="kite.configurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -57,21 +77,36 @@
       <updated>1605482261354</updated>
       <workItem from="1605482262405" duration="1335000" />
       <workItem from="1605632564197" duration="16429000" />
-      <workItem from="1605652800663" duration="374000" />
+      <workItem from="1605652800663" duration="1575000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1103" y="617" key="Github.CreateGistDialog" timestamp="1605648365937">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1103" y="617" key="Github.CreateGistDialog/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1605648365937" />
-    <state x="780" y="331" key="SettingsEditor" timestamp="1605652896695">
+    <state x="780" y="331" key="SettingsEditor" timestamp="1605653478781">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="780" y="331" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1605652896695" />
+    <state x="780" y="331" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1605653478781" />
+    <state x="936" y="325" key="run.anything.popup" timestamp="1605653650195">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="325" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1605653650195" />
   </component>
 </project>
