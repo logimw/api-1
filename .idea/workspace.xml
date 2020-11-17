@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c50afb5e-569f-4cd3-89f0-397159cbd22f" name="Default Changelist" comment="" />
+    <list default="true" id="c50afb5e-569f-4cd3-89f0-397159cbd22f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/pieRepo.js" beforeDir="false" afterPath="$PROJECT_DIR$/repos/pieRepo.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="9802c24b-4a87-4754-ab75-9c0b40044f1d" />
   </component>
   <component name="ProjectId" id="1kLaKXNWHRQNW0HGA6UwVkBvYmp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +36,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Mateo\WebstormProjects\BethanysPiesAPI\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -48,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605482261354</updated>
       <workItem from="1605482262405" duration="1335000" />
-      <workItem from="1605632564197" duration="14258000" />
+      <workItem from="1605632564197" duration="16429000" />
+      <workItem from="1605652800663" duration="374000" />
     </task>
     <servers />
   </component>
@@ -60,9 +69,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1103" y="617" key="Github.CreateGistDialog/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1605648365937" />
-    <state x="780" y="331" key="SettingsEditor" timestamp="1605648486780">
+    <state x="780" y="331" key="SettingsEditor" timestamp="1605652896695">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="780" y="331" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1605648486780" />
+    <state x="780" y="331" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1605652896695" />
   </component>
 </project>

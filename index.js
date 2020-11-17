@@ -1,6 +1,7 @@
 let pieRepo = require("./repos/pieRepo");
 let express = require("express");
 let app = express();
+let errorHelper = require("./helpers/errorHelpers");
 
 let router = express.Router();
 
@@ -180,8 +181,16 @@ router.patch("/:id", (req, res, nest) => {
   });
 });
 
+// Configure router so all routes are prefixed with /api/v1
 app.use("/api/", router);
 
+// Configure exception logger to console
+app.use(errorHelper.logErrorsToConsole);
+// Configure client error handler.
+app.use(errorHelper.clientErrorHandler);
+// Configure exception middleware last.
+app.use(errorHelper.errorHandler);
+// Create server to listen on port 5000
 const server = app.listen(5000, () => {
   console.log("Node server is running on http://localhost:5000..");
 });
